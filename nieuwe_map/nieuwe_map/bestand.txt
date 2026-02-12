@@ -1,0 +1,1 @@
+Dit is een tekstbestand aangemaakt door een shell script.
